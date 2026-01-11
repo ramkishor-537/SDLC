@@ -1,0 +1,50 @@
+SDLC is nothing but Software Development Life Cycle.
+
+In SDLC we have these phases:
+  1. Requirements gathering
+  2. Create a Planning
+  3. Analyse the requirements
+  4. Designing the Architecture for an application
+  5. Development the code
+  6. Testing the application
+  7. Deployment the code into DEV, TEST, STAGE, PROD Environments
+  8. Maintenance and Monitoring the application
+
+In SDLC we followed or following these methodlogies 
+  1. WaterFall Model
+  2. Agile Model without DevOps practices
+  3. Agile Model with DevOps practices.
+
+    1. Water Fall Model:
+       -> Let's say when we started developing software, we plan it to complete within one year of time.
+       -> There will be teams like Analysts team, designing team, development team, testing team, build, release and operations team.
+       -> When analysts gather requirements from client the other teams will be having no work.
+       -> When design team started designing the other teams will have no work.
+       -> When development team started developing code of 6 to 7 months the other teams will not have work.
+       -> When testing team test the application let's say they raise 100 defects in 3 to 4 months the other teams will no work.
+       -> When the build, release and operations team start their job the other teams will not have work.
+       -> At the end, development team found that out of 100 defects 40 are invalid defects then some time will be killed off during that one year of time.
+       -> Whatever the code is given by dev team to test team it may not work in test environment but it may work in dev environment.
+       -> Testing team will be complaning about dev team that you have not developed the code properly, so finally each team started blaming each other that you have not done the work properly.
+       -> There will not be any good bonding between teams therefore it leads to Not a quality software will be produced and within the time line work will not be completed, therefore extension of time taken place.
+
+    To overcome the problems in waterfall model the AGILE Model was released.
+
+    2. Agile Model without DevOps practices:
+       -> Here we can find difference instead of one year, we try to complete modules within one month of sprint because of continuous itertions and continuous delivery.
+       -> We can find now that all teams will not be free so many months instead they will be free 15 days.
+       -> For Example: When developer develop the code and time taken to complete it is 15 days during this time test team will be free.
+       -> Now testing team raised the defects 10 defects out of which 3 invalid defects will be there.
+       -> When compared to waterfall model agile model has improved the process of sdlc in all teams.
+
+    3. Agile Model with DevOps practices:
+      -> Here, Daily DevOps practices will in place of SDLC.
+      -> Now, When an developer commit the code into github repository immediately CI/CD pipelines will trigger and check any defects in the code, test coverage, security flaws in the code, 
+         if there are any defects immediately, defects with report will be send to dev team, if no defects then code will be release into DEV, TEST, STAGE, Non-PROD, PROD environments
+      -> Here, we can see a huge improvement compared previous water fall and agile model without devops practices.
+      -> Daily Every team is busy with work and greater improvement of bonding betweens teams, finally we can a see good quality software product.
+
+DevOPS Definition:
+  DevOps is the process of developing, building, testing and deploying the applications continuously.
+  basically if we can deploy and test the code on the same day we can get maximum feedback cycles to improve our product ... Of course we use multiple tools to make this smooth process. 
+  continues development, integration, deployment, delivery, testing, monitoring, application security etc part of devops
