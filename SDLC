@@ -33,7 +33,7 @@ In SDLC we followed or following these methodlogies
     2. Agile Model without DevOps practices:
        -> Here we can find difference instead of one year, we try to complete modules within one month of sprint because of continuous itertions and continuous delivery.
        -> We can find now that all teams will not be free so many months instead they will be free 15 days.
-       -> For Example: When developer develop the code and time taken to complete it is 15 days during this time test team will be free.
+       -> For Example: When developer develops the code and time taken to complete it is 15 days during this time test team will be free.
        -> Now testing team raised the defects 10 defects out of which 3 invalid defects will be there.
        -> When compared to waterfall model agile model has improved the process of sdlc in all teams.
 
@@ -43,6 +43,12 @@ In SDLC we followed or following these methodlogies
          if there are any defects immediately, defects with report will be send to dev team, if no defects then code will be release into DEV, TEST, STAGE, Non-PROD, PROD environments
       -> Here, we can see a huge improvement compared previous water fall and agile model without devops practices.
       -> Daily Every team is busy with work and greater improvement of bonding betweens teams, finally we can a see good quality software product.
+
+Waterfall vs Agile vs Agile with DevOps:
+For Example: A Person want to go for Health Checkup
+1. Yearly Health checks -> DEC 2026, max 50% chances to prevent health problems -> Waterfall
+2. Monthly Health checks -> 80% chances to prevent health problems -> Agile
+3. Smart watch -> Very less chances to prevent health problems -> DevOps -> Continous feedback
 
 DevOPS Definition:
   DevOps is the process of developing, building, testing and deploying the applications continuously.
