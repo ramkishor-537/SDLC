@@ -1,2 +1,2 @@
 # SDLC
-I will share my understandings about SDLC and i will be relating it to the DEVOPS
+I am sharing my understandings about SDLC and it will be relating to the DEVOPS at the end.
